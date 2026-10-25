@@ -1,9 +1,13 @@
 # LeafWorld Resource Pack
 
-Ресурс-пак с логотипом LeafWorld без нижнего подчёркивания для TAB и скорборда Minecraft Java Edition.
+Ресурс-пак с логотипом LeafWorld без нижнего подчёркивания для TAB, скорборда и заголовка меню ESC Minecraft Java Edition.
 Метаданные совместимости: 1.21.4–1.21.11; в игровом клиенте не тестировался.
 
 [Скачать ZIP](https://github.com/Agent1k-1/LeafWorld-rp/raw/refs/heads/main/LeafWorld-RP-1.21.4-plus.zip)
+
+## Меню ESC
+
+В русском и английском интерфейсе заголовок меню паузы заменён на логотип LeafWorld через перевод `menu.game`. Плагины не требуются; кнопки остаются прежними. Моды интерфейса могут переопределять заголовок.
 
 ## Unicode
 
@@ -16,7 +20,7 @@
 
 ```properties
 resource-pack=https://raw.githubusercontent.com/Agent1k-1/LeafWorld-rp/main/LeafWorld-RP-1.21.4-plus.zip
-resource-pack-sha1=98e32e39d3c579b37d6112f79beab26519a12def
+resource-pack-sha1=53c300b2a0683dcc4d34ce8e150089e4381d74d7
 require-resource-pack=true
 ```
 
