@@ -13,6 +13,16 @@
 
 В русском и английском интерфейсе заголовок меню паузы заменён на логотип LeafWorld через перевод `menu.game`. Плагины не требуются; кнопки остаются прежними. Моды интерфейса могут переопределять заголовок.
 
+## Префикс YouTube
+
+`You` белым, `Tube` красным, без рамки. Символ: `` (U+E007).
+
+```
+/lp group youtube meta setprefix 800 "&f &7"
+```
+
+Если группы нет: `/lp creategroup youtube`.
+
 ## Префиксы OWNER и ADMIN
 
 Только цветные буквы с тёмной обводкой по контуру букв, без серых рамок и металлических уголков.
@@ -50,7 +60,7 @@
 
 ```properties
 resource-pack=https://raw.githubusercontent.com/Agent1k-1/LeafWorld-rp/main/LeafWorld-RP-1.21.4-plus.zip
-resource-pack-sha1=696108f1bedb5a5fcdff21fe71226df53d4e65b8
+resource-pack-sha1=2805a93367989455d92ba2a97b3ae20b275b9bb7
 require-resource-pack=true
 ```
 

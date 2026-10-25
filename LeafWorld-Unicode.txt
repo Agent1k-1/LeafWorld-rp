@@ -1,3 +1,4 @@
+YouTube:  (U+E007)
 OWNER:  (U+E005)
 ADMIN:  (U+E006)
 PLAYER:  (U+E004)
