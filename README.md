@@ -14,13 +14,15 @@
 - TAB: `` — U+E001, для legacy-форматирования: `&f`
 - Скорборд: `` — U+E002, для legacy-форматирования: `&f`
 
+Логотипы TAB и скорборда уменьшены на 25%; размер логотипа ESC сохранён отдельным символом U+E003.
+
 Белый цвет сохраняет цвета изображения. Вставьте символы в настройки вашего плагина TAB/скорборда. Игрок должен принять ресурс-пак.
 
 ## server.properties
 
 ```properties
 resource-pack=https://raw.githubusercontent.com/Agent1k-1/LeafWorld-rp/main/LeafWorld-RP-1.21.4-plus.zip
-resource-pack-sha1=53c300b2a0683dcc4d34ce8e150089e4381d74d7
+resource-pack-sha1=8c145868f78535ebf36cba66b58af538d31fc84a
 require-resource-pack=true
 ```
 
