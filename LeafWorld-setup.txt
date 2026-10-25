@@ -31,7 +31,7 @@ scoreboard:
 от версии плагина. Для MiniMessage используйте <white></white>
 и <white></white>. Сбрасывайте bold/italic/underline перед картинкой.
 Белый цвет сохраняет цвета PNG. Не применяйте &#04FE57&n к картинке:
-это затонирует её и добавит отдельную линию; подчёркивание уже нарисовано.
+это затонирует её и добавит отдельную линию. В картинке подчёркивания нет.
 Для обычного текста серверный цвет: &#04FE57&nLeafWorld&r
 В MiniMessage: <underlined><#04FE57>LeafWorld</#04FE57></underlined>
 
@@ -50,9 +50,9 @@ TAB: логотип занимает ячейку высотой 48 пиксел
 Проверены структура ZIP, JSON, PNG и привязка Unicode. В игровом клиенте
 и с конкретным плагином пакет не проверялся.
 
-SHA-1 ZIP: aed973555ca0526729ed0e34682ae1e9b91ad272
+SHA-1 ZIP: 98e32e39d3c579b37d6112f79beab26519a12def
 
 server.properties:
 resource-pack=ВСТАВЬТЕ_ПРЯМУЮ_HTTPS_ССЫЛКУ_НА_ZIP
-resource-pack-sha1=aed973555ca0526729ed0e34682ae1e9b91ad272
+resource-pack-sha1=98e32e39d3c579b37d6112f79beab26519a12def
 require-resource-pack=true
