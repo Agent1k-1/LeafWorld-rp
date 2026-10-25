@@ -15,6 +15,8 @@
 
 ## Префиксы OWNER и ADMIN
 
+Только цветные буквы с тёмной обводкой по контуру букв, без серых рамок и металлических уголков.
+
 - OWNER: `` (U+E005), золотисто-оранжевый с белыми бликами.
 - ADMIN: `` (U+E006), красный с белыми бликами.
 
@@ -48,7 +50,7 @@
 
 ```properties
 resource-pack=https://raw.githubusercontent.com/Agent1k-1/LeafWorld-rp/main/LeafWorld-RP-1.21.4-plus.zip
-resource-pack-sha1=e6ae1194b54f58c0bf707e25f6c0f4a5fe3b6595
+resource-pack-sha1=696108f1bedb5a5fcdff21fe71226df53d4e65b8
 require-resource-pack=true
 ```
 
