@@ -12,6 +12,14 @@ LeafWorld — ресурс-пак для Minecraft Java Edition 1.21.4+
 для русского (ru_ru) и английского (en_us) языков. Плагин не нужен.
 Кнопки и их действия не изменены. Моды интерфейса могут переопределять заголовок.
 
+ПРЕФИКСЫ OWNER И ADMIN
+OWNER:  (U+E005), золото/оранжевый с белыми бликами.
+ADMIN:  (U+E006), красный с белыми бликами.
+/lp group owner meta setprefix 1000 "&f &7"
+/lp group admin meta setprefix 900 "&f &7"
+Если группы ещё нет: /lp creategroup owner и /lp creategroup admin
+Постоянная ссылка на РП остаётся прежней, меняйте только SHA-1.
+
 ПРЕФИКС PLAYER
 Серая плашка со светлыми буквами:  (U+E004).
 LuckPerms (для существующей группы player):
@@ -71,9 +79,9 @@ TAB: логотип занимает ячейку высотой 36 пиксел
 Проверены структура ZIP, JSON, PNG и привязка Unicode. В игровом клиенте
 и с конкретным плагином пакет не проверялся.
 
-SHA-1 ZIP: 39bc5f864b332359ef432fe8c15b96d1d8889ce1
+SHA-1 ZIP: e6ae1194b54f58c0bf707e25f6c0f4a5fe3b6595
 
 server.properties:
 resource-pack=ВСТАВЬТЕ_ПРЯМУЮ_HTTPS_ССЫЛКУ_НА_ZIP
-resource-pack-sha1=39bc5f864b332359ef432fe8c15b96d1d8889ce1
+resource-pack-sha1=e6ae1194b54f58c0bf707e25f6c0f4a5fe3b6595
 require-resource-pack=true

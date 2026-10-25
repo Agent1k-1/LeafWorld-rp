@@ -13,6 +13,18 @@
 
 В русском и английском интерфейсе заголовок меню паузы заменён на логотип LeafWorld через перевод `menu.game`. Плагины не требуются; кнопки остаются прежними. Моды интерфейса могут переопределять заголовок.
 
+## Префиксы OWNER и ADMIN
+
+- OWNER: `` (U+E005), золотисто-оранжевый с белыми бликами.
+- ADMIN: `` (U+E006), красный с белыми бликами.
+
+```
+/lp group owner meta setprefix 1000 "&f &7"
+/lp group admin meta setprefix 900 "&f &7"
+```
+
+Если группы отсутствуют, сначала создайте их: `/lp creategroup owner`, `/lp creategroup admin`. Ссылка на ресурс-пак постоянная; после обновления меняйте только SHA-1.
+
 ## Префикс PLAYER
 
 Серая плашка со светло-серыми буквами и белыми бликами: `` (U+E004).
@@ -36,7 +48,7 @@
 
 ```properties
 resource-pack=https://raw.githubusercontent.com/Agent1k-1/LeafWorld-rp/main/LeafWorld-RP-1.21.4-plus.zip
-resource-pack-sha1=39bc5f864b332359ef432fe8c15b96d1d8889ce1
+resource-pack-sha1=e6ae1194b54f58c0bf707e25f6c0f4a5fe3b6595
 require-resource-pack=true
 ```
 

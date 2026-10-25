@@ -1,3 +1,5 @@
+OWNER:  (U+E005)
+ADMIN:  (U+E006)
 PLAYER:  (U+E004)
 PLAYER legacy: &f &7
 TAB: 
