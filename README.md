@@ -13,6 +13,16 @@
 
 В русском и английском интерфейсе заголовок меню паузы заменён на логотип LeafWorld через перевод `menu.game`. Плагины не требуются; кнопки остаются прежними. Моды интерфейса могут переопределять заголовок.
 
+## Префикс PLAYER
+
+Серая плашка со светло-серыми буквами и белыми бликами: `` (U+E004).
+
+```
+/lp group player meta setprefix 100 "&f &7"
+```
+
+Если группы нет: `/lp creategroup player`. Выдать группу: `/lp user НИК parent add player`. Для отображения нужен принятый ресурс-пак и плагин чата/TAB, использующий префикс LuckPerms.
+
 ## Unicode
 
 - TAB: `` — U+E001, для legacy-форматирования: `&f`
@@ -26,7 +36,7 @@
 
 ```properties
 resource-pack=https://raw.githubusercontent.com/Agent1k-1/LeafWorld-rp/main/LeafWorld-RP-1.21.4-plus.zip
-resource-pack-sha1=63dbcc9104ba86c3b6e839f6ee7cb2acce811a8b
+resource-pack-sha1=39bc5f864b332359ef432fe8c15b96d1d8889ce1
 require-resource-pack=true
 ```
 

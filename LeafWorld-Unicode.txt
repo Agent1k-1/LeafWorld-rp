@@ -1,3 +1,5 @@
+PLAYER:  (U+E004)
+PLAYER legacy: &f &7
 TAB: 
 Scoreboard: 
 TAB legacy: &f
