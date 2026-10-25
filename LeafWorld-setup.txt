@@ -1,5 +1,12 @@
 LeafWorld — ресурс-пак для Minecraft Java Edition 1.21.4+
 
+ЛОГОТИП MINECRAFT
+Текстура логотипа Minecraft заменена на LeafWorld; Java Edition скрыта.
+В стандартном масштабе GUI ширина логотипа около 144 пикселей, как в ESC.
+Серверный пак не действует до его скачивания и применения при подключении.
+Для замены с запуска игры установите ZIP локально в .minecraft/resourcepacks
+и включите его в настройках наборов ресурсов. Моды могут менять отрисовку.
+
 МЕНЮ ESC
 Заголовок меню паузы заменён на логотип LeafWorld через ключ menu.game
 для русского (ru_ru) и английского (en_us) языков. Плагин не нужен.
@@ -56,9 +63,9 @@ TAB: логотип занимает ячейку высотой 36 пиксел
 Проверены структура ZIP, JSON, PNG и привязка Unicode. В игровом клиенте
 и с конкретным плагином пакет не проверялся.
 
-SHA-1 ZIP: 211842668cece46df308c7ed2431b672a42288e4
+SHA-1 ZIP: 63dbcc9104ba86c3b6e839f6ee7cb2acce811a8b
 
 server.properties:
 resource-pack=ВСТАВЬТЕ_ПРЯМУЮ_HTTPS_ССЫЛКУ_НА_ZIP
-resource-pack-sha1=211842668cece46df308c7ed2431b672a42288e4
+resource-pack-sha1=63dbcc9104ba86c3b6e839f6ee7cb2acce811a8b
 require-resource-pack=true

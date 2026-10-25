@@ -5,6 +5,10 @@
 
 [Скачать ZIP](https://github.com/Agent1k-1/LeafWorld-rp/raw/refs/heads/main/LeafWorld-RP-1.21.4-plus.zip)
 
+## Логотип Minecraft
+
+Логотип Minecraft заменён на LeafWorld, надпись Java Edition скрыта. В стандартном GUI ширина LeafWorld около 144 пикселей, как в ESC. Серверный пак начинает действовать только после скачивания и применения. Для замены логотипа с запуска игры установите ZIP локально в `.minecraft/resourcepacks` и включите в настройках игры. Моды интерфейса могут менять отрисовку.
+
 ## Меню ESC
 
 В русском и английском интерфейсе заголовок меню паузы заменён на логотип LeafWorld через перевод `menu.game`. Плагины не требуются; кнопки остаются прежними. Моды интерфейса могут переопределять заголовок.
@@ -22,7 +26,7 @@
 
 ```properties
 resource-pack=https://raw.githubusercontent.com/Agent1k-1/LeafWorld-rp/main/LeafWorld-RP-1.21.4-plus.zip
-resource-pack-sha1=211842668cece46df308c7ed2431b672a42288e4
+resource-pack-sha1=63dbcc9104ba86c3b6e839f6ee7cb2acce811a8b
 require-resource-pack=true
 ```
 
