@@ -1,0 +1,7 @@
+TAB: 
+Scoreboard: 
+TAB legacy: &f
+Scoreboard legacy: &f
+TAB MiniMessage: <white></white>
+Scoreboard MiniMessage: <white></white>
+Color: &#04FE57&n
