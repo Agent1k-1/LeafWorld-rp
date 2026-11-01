@@ -60,10 +60,22 @@
 
 ```properties
 resource-pack=https://raw.githubusercontent.com/Agent1k-1/LeafWorld-rp/main/LeafWorld-RP-1.21.4-plus.zip
-resource-pack-sha1=2805a93367989455d92ba2a97b3ae20b275b9bb7
+resource-pack-sha1=f5618fae5d06bba78b53204cc9f480869693f09a
 require-resource-pack=true
 ```
 
 Перезапустите сервер после изменения настроек. Для закрытого репозитория потребуется публичный хостинг ZIP: игровые клиенты должны скачивать файл без авторизации.
 
 Подробности: [инструкция](LeafWorld-setup.txt), [символы](LeafWorld-Unicode.txt).
+
+## Дополнительные донаты
+
+Без рамок: PRINCE, PHOENIX, OVERLORD, GLADIATOR, SHIELD.
+
+```text
+/lp group prince meta setprefix 200 "&f &7"
+/lp group phoenix meta setprefix 300 "&f &7"
+/lp group overlord meta setprefix 500 "&f &7"
+/lp group gladiator meta setprefix 400 "&f &7"
+/lp group shield meta setprefix 150 "&f &7"
+```

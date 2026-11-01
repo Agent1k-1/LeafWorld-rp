@@ -10,3 +10,9 @@ Scoreboard legacy: &f
 TAB MiniMessage: <white></white>
 Scoreboard MiniMessage: <white></white>
 Color: &#04FE57&n
+
+/lp group prince meta setprefix 200 "&f &7"
+/lp group phoenix meta setprefix 300 "&f &7"
+/lp group overlord meta setprefix 500 "&f &7"
+/lp group gladiator meta setprefix 400 "&f &7"
+/lp group shield meta setprefix 150 "&f &7"

@@ -12,6 +12,13 @@ LeafWorld — ресурс-пак для Minecraft Java Edition 1.21.4+
 для русского (ru_ru) и английского (en_us) языков. Плагин не нужен.
 Кнопки и их действия не изменены. Моды интерфейса могут переопределять заголовок.
 
+НОВЫЕ ПРЕФИКСЫ
+PRINCE:  U+E008
+PHOENIX:  U+E009
+OVERLORD:  U+E00A
+GLADIATOR:  U+E00B
+SHIELD:  U+E00C
+
 ПРЕФИКС YOUTUBE
 You белым, Tube красным, без рамки. Символ:  (U+E007).
 /lp group youtube meta setprefix 800 "&f &7"
@@ -85,9 +92,9 @@ TAB: логотип занимает ячейку высотой 36 пиксел
 Проверены структура ZIP, JSON, PNG и привязка Unicode. В игровом клиенте
 и с конкретным плагином пакет не проверялся.
 
-SHA-1 ZIP: 2805a93367989455d92ba2a97b3ae20b275b9bb7
+SHA-1 ZIP: f5618fae5d06bba78b53204cc9f480869693f09a
 
 server.properties:
 resource-pack=ВСТАВЬТЕ_ПРЯМУЮ_HTTPS_ССЫЛКУ_НА_ZIP
-resource-pack-sha1=2805a93367989455d92ba2a97b3ae20b275b9bb7
+resource-pack-sha1=f5618fae5d06bba78b53204cc9f480869693f09a
 require-resource-pack=true
