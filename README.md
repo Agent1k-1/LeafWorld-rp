@@ -60,7 +60,7 @@
 
 ```properties
 resource-pack=https://raw.githubusercontent.com/Agent1k-1/LeafWorld-rp/main/LeafWorld-RP-1.21.4-plus.zip
-resource-pack-sha1=525a88ea2805c56040828b4acc85e9d0e588fe3a
+resource-pack-sha1=8a3d1fafc59f68dd81ed36424f0c2f1d3ebebc07
 require-resource-pack=true
 ```
 
