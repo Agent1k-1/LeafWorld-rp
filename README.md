@@ -60,7 +60,7 @@
 
 ```properties
 resource-pack=https://raw.githubusercontent.com/Agent1k-1/LeafWorld-rp/main/LeafWorld-RP-1.21.4-plus.zip
-resource-pack-sha1=f2e7f65a968adcfb0ad4d35645bf443845cc6d16
+resource-pack-sha1=0025f58d358a34f969189d89e77139173f779298
 require-resource-pack=true
 ```
 
@@ -81,3 +81,5 @@ require-resource-pack=true
 ```
 
 Пять донатных префиксов заменены оригинальными PNG из MuteRanks.zip, без изменения размера; Unicode U+E008–U+E00C сохранены.
+
+Размер пяти донатных префиксов: height=8, ascent=7; исходные PNG сохранены.
