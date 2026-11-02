@@ -60,7 +60,7 @@
 
 ```properties
 resource-pack=https://raw.githubusercontent.com/Agent1k-1/LeafWorld-rp/main/LeafWorld-RP-1.21.4-plus.zip
-resource-pack-sha1=8a3d1fafc59f68dd81ed36424f0c2f1d3ebebc07
+resource-pack-sha1=f2e7f65a968adcfb0ad4d35645bf443845cc6d16
 require-resource-pack=true
 ```
 
@@ -79,3 +79,5 @@ require-resource-pack=true
 /lp group gladiator meta setprefix 400 "&f &7"
 /lp group shield meta setprefix 150 "&f &7"
 ```
+
+Пять донатных префиксов заменены оригинальными PNG из MuteRanks.zip, без изменения размера; Unicode U+E008–U+E00C сохранены.
