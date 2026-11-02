@@ -92,9 +92,9 @@ TAB: логотип занимает ячейку высотой 36 пиксел
 Проверены структура ZIP, JSON, PNG и привязка Unicode. В игровом клиенте
 и с конкретным плагином пакет не проверялся.
 
-SHA-1 ZIP: 0025f58d358a34f969189d89e77139173f779298
+SHA-1 ZIP: 8f607440a33786345c3494af5f4b5ae1ad8a2ca5
 
 server.properties:
 resource-pack=ВСТАВЬТЕ_ПРЯМУЮ_HTTPS_ССЫЛКУ_НА_ZIP
-resource-pack-sha1=0025f58d358a34f969189d89e77139173f779298
+resource-pack-sha1=8f607440a33786345c3494af5f4b5ae1ad8a2ca5
 require-resource-pack=true

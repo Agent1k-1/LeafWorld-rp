@@ -60,7 +60,7 @@
 
 ```properties
 resource-pack=https://raw.githubusercontent.com/Agent1k-1/LeafWorld-rp/main/LeafWorld-RP-1.21.4-plus.zip
-resource-pack-sha1=0025f58d358a34f969189d89e77139173f779298
+resource-pack-sha1=8f607440a33786345c3494af5f4b5ae1ad8a2ca5
 require-resource-pack=true
 ```
 
@@ -83,3 +83,5 @@ require-resource-pack=true
 Пять донатных префиксов заменены оригинальными PNG из MuteRanks.zip, без изменения размера; Unicode U+E008–U+E00C сохранены.
 
 Размер пяти донатных префиксов: height=8, ascent=7; исходные PNG сохранены.
+
+Обновлены PLAYER, YouTube, ADMIN, OWNER. Новые: TikTok U+E00D, Moderator U+E00E, Helper U+E00F. Все префиксы: height=8, ascent=7.

@@ -16,3 +16,7 @@ Color: &#04FE57&n
 /lp group overlord meta setprefix 500 "&f &7"
 /lp group gladiator meta setprefix 400 "&f &7"
 /lp group shield meta setprefix 150 "&f &7"
+
+TikTok:  U+E00D
+Moderator:  U+E00E
+Helper:  U+E00F
