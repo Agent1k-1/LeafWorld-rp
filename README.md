@@ -60,7 +60,7 @@
 
 ```properties
 resource-pack=https://raw.githubusercontent.com/Agent1k-1/LeafWorld-rp/main/LeafWorld-RP-1.21.4-plus.zip
-resource-pack-sha1=8f607440a33786345c3494af5f4b5ae1ad8a2ca5
+resource-pack-sha1=eb3aea25d2f5515291ad32f49609c226c22e772c
 require-resource-pack=true
 ```
 
@@ -85,3 +85,5 @@ require-resource-pack=true
 Размер пяти донатных префиксов: height=8, ascent=7; исходные PNG сохранены.
 
 Обновлены PLAYER, YouTube, ADMIN, OWNER. Новые: TikTok U+E00D, Moderator U+E00E, Helper U+E00F. Все префиксы: height=8, ascent=7.
+
+Текущий ZIP полностью заменён предоставленным пользователем LeafWorld.zip, без изменения содержимого. Старые описания относятся к предыдущим версиям.
